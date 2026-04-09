@@ -13,7 +13,7 @@
 
 Hey there — this is a brand-new Riichi Mahjong teaching tool.
 
-Here's the story: I've always wanted software that could actually *teach* me how to play mahjong. But after trying everything out there, nothing quite clicked. Tile efficiency calculators (like helper) tell you *what* to discard, but never *why*. Model loaders (like Akagi) have powerful neural networks under the hood, but they're black boxes — you see the answer, but you have no idea what the model is "thinking." It's like copying someone's homework: you get the result, but you still can't solve the problem yourself.
+Here's the story: I've always wanted software that could actually *teach* me how to play mahjong. But after trying everything out there, nothing quite clicked. Tile efficiency calculators (like mahjong-helper) can compute shanten count, effective tiles, and expected points — solid deterministic data, but that's all they do. You know the numbers, but you still don't understand the bigger picture. Model loaders (like Akagi) run neural networks like Mortal under the hood — genuinely powerful, but they're black boxes. You see the recommendation, but you have no idea what the model is "thinking." It's like copying someone's homework: you get the result, but you still can't solve the problem yourself.
 
 What I wanted was an AI that doesn't just recommend a tile, but tells me *why* it recommends that tile — and not as some after-the-fact analysis bolted on top, but as something the model **natively outputs** during inference. Things like how dangerous the current situation feels, how confident it is about pushing forward, whether the play is offensive or defensive — these are signals the model produces on its own, not reverse-engineered from rules.
 
