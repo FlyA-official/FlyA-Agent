@@ -19,7 +19,7 @@ What I wanted was an AI that doesn't just recommend a tile, but tells me *why* i
 
 So I kidnapped a few colleagues from the office, and together we went down the neural network rabbit hole. No regrets. Okay, maybe some regrets.
 
-A bit about our model: FlyA starts with pure behavioral cloning on human game records as a foundation. The architecture is CNN + Transformer, giving the model attention mechanisms, long-horizon awareness, and opponent modeling. On top of that, we use CFR (Counterfactual Regret Minimization) for policy refinement, combined with self-play reinforcement learning. Training happens in multiple stages. We're still in the early phases, but even the base model already hit #1 on RiichiLab.
+A bit about our model: FlyA starts with pure behavioral cloning on human game records as a foundation. The architecture is CNN + Transformer, giving the model attention mechanisms, long-horizon awareness, and opponent modeling. On top of that, we use CFR (Counterfactual Regret Minimization) for policy refinement, combined with self-play reinforcement learning. Training happens in multiple stages. The base model from the earliest stage — pure behavioral cloning alone — already hit #1 on RiichiLab. And that's before CFR and self-play reinforcement even kick in. Stay tuned.
 
 Oh, and we pulled off some... let's call them *unreasonably effective* optimizations to the network architecture, which means the model can extract deep mahjong strategies from a surprisingly small amount of game data. So rest assured — we won't be harvesting your match data. Honestly, we don't even need that much :)
 
