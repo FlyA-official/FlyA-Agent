@@ -59,10 +59,9 @@
 | 平台 | 状态 |
 |------|------|
 | 雀魂网页版（全区服） | ✅ 已支持 |
-| 雀魂客户端（国服） | ✅ 已支持 |
+| 雀魂客户端（全区服） | ✅ 已支持 |
 | 麻雀一番街 | ✅ 已支持 |
-| 天凤 | ✅ 已支持 |
-| 雀姬 | ✅ 已支持 |
+| 天凤、雀姬等 | 🔧 适配中 |
 
 软件支持**简体中文、繁体中文、日本語、English** 四种语言。
 
@@ -161,10 +160,9 @@ HUD 浮窗默认关闭了截图可见性（防止直播/录屏时泄露）。如
 | 平台 | 狀態 |
 |------|------|
 | 雀魂網頁版（全區服） | ✅ 已支援 |
-| 雀魂客戶端（國服） | ✅ 已支援 |
+| 雀魂客戶端（全區服） | ✅ 已支援 |
 | 麻雀一番街 | ✅ 已支援 |
-| 天鳳 | ✅ 已支援 |
-| 雀姬 | ✅ 已支援 |
+| 天鳳、雀姬等 | 🔧 適配中 |
 
 軟體支援**簡體中文、繁體中文、日本語、English** 四種語言。
 
@@ -263,10 +261,9 @@ The beta supports the following login methods:
 | Platform | Status |
 |----------|--------|
 | Mahjong Soul Web (all regions) | ✅ Supported |
-| Mahjong Soul Client (CN) | ✅ Supported |
+| Mahjong Soul Client (all regions) | ✅ Supported |
 | Ichiban-gai | ✅ Supported |
-| Tenhou | ✅ Supported |
-| Jantama (Queji) | ✅ Supported |
+| Tenhou, Queji, etc. | 🔧 In progress |
 
 The software supports **Simplified Chinese, Traditional Chinese, Japanese, and English**.
 
@@ -365,10 +362,9 @@ This software is intended solely for Riichi Mahjong education and learning purpo
 | プラットフォーム | 状態 |
 |------------------|------|
 | 雀魂 Web 版（全リージョン） | ✅ 対応済み |
-| 雀魂クライアント（中国サーバー） | ✅ 対応済み |
+| 雀魂クライアント（全リージョン） | ✅ 対応済み |
 | 麻雀一番街 | ✅ 対応済み |
-| 天鳳 | ✅ 対応済み |
-| 雀姫 | ✅ 対応済み |
+| 天鳳、雀姫など | 🔧 対応中 |
 
 ソフトウェアは**簡体中国語、繁体中国語、日本語、English** の 4 言語に対応しています。
 
