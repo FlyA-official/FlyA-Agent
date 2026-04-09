@@ -31,7 +31,11 @@ Join our Discord / QQ group to follow model training updates and software releas
 
 **FlyA Agent** is a Japanese Riichi Mahjong AI desktop application powered by FlyA AI, combining real-time teaching, built-in games, and automation.
 
-You can connect it to Mahjong Soul and other Riichi Mahjong platforms to watch AI recommendations and reasoning in real time. You can also play against AI opponents in the built-in mahjong game. The core feature of the FlyA model is **explainability** — threat perception, push confidence, and decision motivation are all signals natively produced during model inference, not post-hoc analysis.
+You can connect it to Mahjong Soul and other Riichi Mahjong platforms to watch AI recommendations and reasoning in real time. We even crammed a full mahjong game inside the app, just so you can spar with the AI directly:
+
+![built-in game](screenshot_game.png)
+
+The core feature of the FlyA model is **explainability** — threat perception, push confidence, and decision motivation are all signals natively produced during model inference, not post-hoc analysis.
 
 > **This is an early beta.** Bugs are guaranteed. If that bothers you, maybe don't use your tryhard ranked account :)
 
