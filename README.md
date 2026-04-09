@@ -67,7 +67,7 @@
 
 ## 代理与权限
 
-软件的客户端代理模式采用 MITM 方式，通过内置虚拟网卡进行流量代理。首次启动时需授予管理员权限，以完成：
+软件的客户端代理模式采用自研的代理引擎，通过内置虚拟网卡进行流量代理。首次启动时需授予管理员权限，以完成：
 
 - 安装信任证书
 - 创建虚拟网卡
@@ -168,7 +168,7 @@ HUD 浮窗默认关闭了截图可见性（防止直播/录屏时泄露）。如
 
 ## 代理與權限
 
-軟體的客戶端代理模式採用 MITM 方式，透過內建虛擬網路卡進行流量代理。首次啟動時需授予管理員權限，以完成：
+軟體的客戶端代理模式採用自研的代理引擎，透過內建虛擬網路卡進行流量代理。首次啟動時需授予管理員權限，以完成：
 
 - 安裝信任憑證
 - 建立虛擬網路卡
@@ -269,7 +269,7 @@ The software supports **Simplified Chinese, Traditional Chinese, Japanese, and E
 
 ## Proxy & Permissions
 
-The client proxy mode uses MITM via a built-in virtual network adapter. Admin permission is required on first launch to:
+The client proxy mode uses a proprietary proxy engine with a built-in virtual network adapter. Admin permission is required on first launch to:
 
 - Install a trusted certificate
 - Create a virtual network adapter
@@ -370,7 +370,7 @@ This software is intended solely for Riichi Mahjong education and learning purpo
 
 ## プロキシと権限
 
-クライアントプロキシモードは、内蔵仮想ネットワークアダプタを使用した MITM 方式で動作します。初回起動時に管理者権限が必要です：
+クライアントプロキシモードは、自社開発のプロキシエンジンと内蔵仮想ネットワークアダプタを使用して動作します。初回起動時に管理者権限が必要です：
 
 - 信頼済み証明書のインストール
 - 仮想ネットワークアダプタの作成
