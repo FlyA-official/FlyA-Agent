@@ -110,7 +110,7 @@ HUD 浮窗預設對截圖不可見（防止直播/錄影時洩露）。需要截
 
 | 管道 | 連結 |
 |------|------|
-| Discord（FlyA Agent） | https://discord.gg/hUwMGczz |
+| Discord（FlyA Agent） | https://discord.gg/YEgQRT4MMU |
 | Discord（shinkuan's Akagi） | https://discord.gg/Z2wjXUK8bN |
 | QQ 群 | 1093245435 |
 
