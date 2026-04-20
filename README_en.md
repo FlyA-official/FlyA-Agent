@@ -110,7 +110,7 @@ Real talk — early versions probably won't get frequent updates going forward. 
 
 | Channel | Link |
 |---------|------|
-| Discord (FlyA Agent) | https://discord.gg/hUwMGczz |
+| Discord（FlyA Agent） | https://discord.gg/YEgQRT4MMU |
 | Discord (shinkuan's Akagi) | https://discord.gg/Z2wjXUK8bN |
 | QQ Group | 1093245435 |
 
